@@ -1,0 +1,46 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Smith",
+        "age": 35,
+        "phonenum": "(709)123-4567",
+        "housecostpurch": "245000",
+        "housecostcurr": "375000"
+    },
+
+    {
+        "firstname": "Jane",
+        "lastname": "Jones",
+        "age": 44,
+        "phonenum": "(709)555-9146",
+        "housecostpurch": "185000",
+        "housecostcurr": "450000"
+    },
+
+    {
+        "firstname": "Matthew",
+        "lastname": "Mills",
+        "age": 32,
+        "phonenum": "(709)224-7111",
+        "housecostpurch": "265000",
+        "housecostcurr": "315000"
+    },
+
+    {
+        "firstname": "Diane",
+        "lastname": "Murphy",
+        "age": 72,
+        "phonenum": "(709)416-0004",
+        "housecostpurch": "85000",
+        "housecostcurr": "575000"
+    },
+
+    {
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "age": 27,
+        "phonenum": "(709)590-1675",
+        "housecostpurch": "315000",
+        "housecostcurr": "350000"
+    }
+]
